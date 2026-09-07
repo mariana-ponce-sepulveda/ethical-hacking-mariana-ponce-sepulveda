@@ -38,40 +38,6 @@ Construir progresivamente conocimientos en ciberseguridad mediante actividades p
 | 🌐 **Actividad 04** | Próximamente | ⏳ Pendiente |
 
 > Las actividades se irán agregando progresivamente a medida que avance el programa.
-
----
-
-## 🛡️ Actividad 01
-
-### Análisis y Planificación del Pentest
-
-**Caso:** Aurora Market
-
-En esta actividad se desarrolla el análisis y la planificación de una evaluación de seguridad para una aplicación web de comercio electrónico.
-
-### 📋 Contenido
-
-- 🎯 Objetivos del pentest
-- 📌 Alcance
-- 🔐 Autorización y condiciones
-- 🕵️ Tipo de pentest
-- 📝 Planificación
-- 🔎 Fases del pentest
-- 📚 Investigación
-- 🛡️ OWASP Web Security Testing Guide (WSTG)
-
-📄 **[Ver entregable de la Actividad 01](./actividad-01/actividad-01.pdf)**
-
----
-
-## 🧠 Metodologías y conocimientos
-
-Durante el proceso de formación se trabajará con diferentes conceptos, metodologías y herramientas relacionadas con la seguridad informática.
-
-Para la Actividad 01 se tomó como referencia:
-
-**OWASP Web Security Testing Guide (WSTG)**
-
 ---
 
 ## ⚖️ Ethical Hacking
