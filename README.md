@@ -130,9 +130,8 @@ Durante las actividades prácticas se utilizan diferentes herramientas relaciona
 | Herramienta      | Uso                                                 |
 | ---------------- | --------------------------------------------------- |
 | 🔍 **Nmap**      | Reconocimiento y escaneo de redes                   |
-| 📜 **NSE**       | Automatización de tareas mediante scripts           |
-| 🖥️ **Terminal** | Ejecución y análisis de comandos                    |
-| 🐧 **Linux**     | Entorno de trabajo para prácticas de ciberseguridad |
+| 🖥️ **Terminal**  | Ejecución y análisis de comandos                    |
+| 🐧 **Kali Linux** | Entorno de trabajo para prácticas de ciberseguridad |
 
 ---
 
