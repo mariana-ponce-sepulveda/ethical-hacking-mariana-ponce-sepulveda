@@ -34,12 +34,11 @@ Desarrollar y fortalecer conocimientos prácticos en ciberseguridad mediante act
 
 ## 📚 Actividades
 
-| Actividad            | Tema                                  | Estado       |
-| -------------------- | ------------------------------------- | ------------ |
-| 🛡️ **Actividad 01** | Análisis y Planificación del Pentest  | ✅ Completada |
-| 🔍 **Actividad 02**  | Nmap Recon Challenge — Retos 01 al 10 | ✅ Completada |
-| 🕵️ **Actividad 03** | Próximamente                          | ⏳ Pendiente  |
-| 🌐 **Actividad 04**  | Próximamente                          | ⏳ Pendiente  |
+| Actividad            | Tema                                       | Estado       |
+| ----------------------- | ----------------------------------------| ------------ |
+| 🛡️ **Actividad 01**     | Análisis y Planificación del Pentest   | ✅ Completada |
+| 🔍 **Actividad 02**     | Nmap Recon Challenge — Retos 01 al 10  | ✅ Completada |
+| 🗄️ Actividades 03 y 04  | SQL & Web Security Challenge — SQL y Seguridad Web ✅ Completadas
 
 > Las actividades se irán incorporando progresivamente a medida que avance el programa.
 
@@ -173,6 +172,55 @@ Cada actividad representa una oportunidad para aprender de forma práctica, comp
 ```
 
 ---
+🗄️ Actividades 03 y 04 — SQL & Web Security Challenge
+
+📌 Descripción
+
+Desafío práctico enfocado en aplicar conocimientos de SQL y dar los primeros pasos en el análisis de seguridad de aplicaciones web. El objetivo es desarrollar habilidades para documentar procedimientos, interpretar resultados y comunicar hallazgos técnicos de manera clara y profesional.
+
+🎯 Objetivos
+
+Practicar conocimientos de SQL.
+
+Explorar fundamentos de seguridad de aplicaciones web.
+
+Analizar los resultados de los ejercicios realizados.
+
+Documentar procedimientos y evidencias técnicas.
+
+Identificar y comprender posibles riesgos de seguridad.
+
+Comunicar hallazgos y conclusiones de manera profesional.
+
+📂 Entregables
+
+Informe técnico de la actividad.
+
+Ejercicios y procedimientos realizados.
+
+Resultados y análisis.
+
+Capturas de pantalla como evidencia.
+
+Conclusiones y observaciones de seguridad.
+
+🛠️ Competencias desarrolladas
+
+SQL y bases de datos.
+
+Fundamentos de seguridad web.
+
+Análisis e interpretación de resultados.
+
+Documentación técnica.
+
+Comunicación de hallazgos.
+
+⚖️ Consideraciones éticas
+
+Todas las pruebas deben realizarse en los entornos autorizados para la actividad, respetando el alcance establecido y las buenas prácticas de seguridad.
+
+🔐 Aprender, analizar, documentar y comunicar: pasos fundamentales para desarrollar habilidades en Ethical Hacking.
 
 # 👩‍💻 Formación
 
